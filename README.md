@@ -1,4 +1,4 @@
-Data Cleaning Methods:
+Data Cleaning:
 Replacement of outliers using the average of two temporally neighboring pieces of data.
 
 Dataset Splitting:
